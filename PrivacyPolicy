@@ -1,0 +1,54 @@
+Privacy Policy for MedPrep
+Last Updated: 31 July 2025
+
+1. Introduction
+Welcome to MedPrep. We are committed to protecting your privacy and handling your data in an open and transparent manner. This privacy policy outlines what personal data we collect, how it is used, and the rights you have in relation to your data when you use our application ("Service").
+
+2. Data We Collect
+To provide and improve our Service, we collect the following types of information:
+
+Account Information: When you sign up, we store your anonymous User ID, email address, first name, last name, and age. This information is essential for creating and managing your account.
+
+Usage and Progress Data: We collect data on your selected career tracks, the interview stations you complete, and the AI-generated feedback and scores you receive. This allows you to track your progress over time.
+
+Experience Builder Content: Any portfolio entries or personal achievements you add to the Experience Builder are stored with your account. This data is used to help our AI tailor feedback to your personal experience.
+
+Audio Recordings: Audio from your mock interviews is sent to our AI service for analysis to generate feedback. These recordings are processed for this purpose and are not stored long-term on our servers.
+
+Onboarding Information: We store the answers you provide during the onboarding process, such as how you heard about us and your preparation goals, to help us understand our user base.
+
+Analytics and Crash Data: We collect anonymised data about app usage and crashes to help us identify bugs and improve the user experience. This includes information like device type and operating system version, but does not personally identify you.
+
+3. How We Use Your Data
+Your data is used for the following purposes:
+
+To Provide and Maintain the Service: To manage your account, provide you with access to interview stations, and display your performance history.
+
+To Personalise Your Experience: To tailor AI-generated feedback based on your performance and the content you provide in the Experience Builder.
+
+To Improve Our Application: To understand how users interact with our app, identify areas for improvement, and fix bugs or crashes.
+
+For Medical Education Research (with your consent): If you opt-in during onboarding, your anonymised performance data may be used for research purposes to create better educational tools. Your personal information will never be shared.
+
+To Communicate With You (with your consent): If you opt-in, we may use your email address to contact you for feedback or to provide information about the Service.
+
+4. Data Storage and Security
+We use secure cloud-based servers (Google Firebase) located in multiple regions to store your data. We take reasonable measures to protect your information from unauthorised access, loss, or misuse.
+
+5. Third-Party Services
+We use the following third-party services to operate our app:
+
+Google Firebase: For backend services including authentication, database (Firestore), analytics, and crash reporting.
+
+Google AI (Gemini): For processing your audio recordings and generating performance feedback.
+
+These services have their own privacy policies, and we encourage you to review them.
+
+6. Your Rights
+You have the right to access, correct, or delete your personal data. You can manage your data within the app or request account deletion through the "Data & Privacy" section in the app's settings.
+
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any significant changes by posting the new policy within the app or via email.
+
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at: [Your Support Email Address Here]
